@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: white;
+  padding: 10px;
+}
+.card-container {
+  background-color: #150b3e;
+  padding: 10px;
+  border-radius: 10px;
+}
+.img-text-container {
+  display: flex;
+  justify-content: space-between;
+}

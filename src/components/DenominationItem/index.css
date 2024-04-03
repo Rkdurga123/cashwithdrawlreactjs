@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.list-container {
+  margin: 10px;
+}
+.btn {
+  border: 2px solid white;
+  padding: 10px;
+  border-radius: 8px;
+}
